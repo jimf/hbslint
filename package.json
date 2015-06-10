@@ -1,0 +1,23 @@
+{
+  "name": "hbslint",
+  "version": "0.1.0",
+  "description": "Linter tool for Handlebars templates",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jimf/hbslint"
+  },
+  "keywords": [
+    "handlebars",
+    "lint",
+    "linter"
+  ],
+  "author": "Jim Fitzpatrick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimf/hbslint/issues"
+  },
+  "homepage": "https://github.com/jimf/hbslint"
+}
