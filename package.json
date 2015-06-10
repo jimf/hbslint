@@ -2,6 +2,9 @@
   "name": "hbslint",
   "version": "0.1.0",
   "description": "Linter tool for Handlebars templates",
+  "bin": {
+    "hbslint": "./bin/hbslint"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/jimf/hbslint/issues"
   },
-  "homepage": "https://github.com/jimf/hbslint"
+  "homepage": "https://github.com/jimf/hbslint",
+  "dependencies": {
+    "commander": "^2.8.1"
+  }
 }
